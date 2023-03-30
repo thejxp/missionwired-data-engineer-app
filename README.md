@@ -22,4 +22,4 @@ Add the following files to the `/data` directory:
 
 ## How to Run
 
-To regenerate `people.csv` and `acquisition_facts.csv`, run the command `jupyter notebook` from the terminal, then run every cell.
+To regenerate `people.csv` and `acquisition_facts.csv`, run the command `jupyter notebook` from the terminal (in the same directory as `Data Engineer Exercise.ipynb`), then run every cell of the notebook.
